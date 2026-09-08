@@ -239,3 +239,6 @@ This repository serves as the official landing page for **As Simple as Photoshop
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of As Simple as Photoshop today!**
+
+---
+**Last updated:** 2026-09-08 03:48:04 UTC
